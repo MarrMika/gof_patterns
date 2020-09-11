@@ -1,4 +1,4 @@
-package behavioural.chainOfResponsibility;
+package behavioural.chainOfResponsibility.authExample;
 
 public abstract class AuthenticationProcessor {
     public AuthenticationProcessor nextAuthenticationProcessor;

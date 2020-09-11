@@ -1,4 +1,4 @@
-package behavioural.chainOfResponsibility;
+package behavioural.chainOfResponsibility.authExample;
 
 import static java.util.Objects.isNull;
 

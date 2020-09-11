@@ -4,9 +4,25 @@
    * https://www.geeksforgeeks.org/
    * https://www.tutorialspoint.com/
 
-## Behavioural
+## <--- Creational --->
+### Abstract Factory
+### Builder
+### Factory Method
+### Prototype
+### Singleton
+
+## <--- Structural --->
+### Adapter
+### Bridge
+### Composite
+### Decorator
+### Facade
+### Flyweight
+### Proxy
+
+## <--- Behavioural --->
 ### Chain of Responsibility
-######(Use the Chain of Responsibility Pattern when you want to give more than one object a chance to handle a request)
+###### (Use the Chain of Responsibility Pattern when you want to give more than one object a chance to handle a request)
 ##### WHEN TO USE:
    1. When you want to decouple a request’s sender and receiver
    2. Multiple objects, determined at runtime, are candidates to handle a request
@@ -28,3 +44,14 @@
    chain if no object handles it (this can be an advantage or a disadvantage),
    5. Can be hard to observe the runtime characteristics and debug.
    * `Note: there is not much discussion about the disadvantage of COR. Whenever we can use it, use it.`
+   
+   ### Command
+   ### Interpreter
+   ### Iterator
+   ### Mediator
+   ### Memento 
+   ### Observer
+   ### State
+   ### Strategy
+   ### Template Method
+   ### Visitor
